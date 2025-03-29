@@ -1,4 +1,4 @@
-# Ish235.ShasavicChordSimulator
+# Ish式和音図エディタ(Palichanata)
 
 # 利用規約
 
