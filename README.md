@@ -1,4 +1,4 @@
-# Ish式和音図エディタ(Palichanata)
+# Ish式和音図エディタ(Palichanata(仮))
 
 # 利用規約
 
